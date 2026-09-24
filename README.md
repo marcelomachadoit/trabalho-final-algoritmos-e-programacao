@@ -19,9 +19,9 @@ O sistema calcula o valor da compra, aplica descontos conforme o total, permite 
 - Escolha da forma de pagamento e exibição do resumo final da compra.
   
 6. Instruções necessárias para executar o programa
-1. Informe o nome do cliente.
-2. Digite o código do produto desejado e a quantidade.
-3. Escolha se deseja finalizar a compra ou adicionar outro produto.
-4. Após finalizar, o sistema calcula automaticamente o desconto e o valor final.
-5. Escolha a forma de pagamento: dinheiro, PIX ou cartão.
-6. Confira o resumo final da compra apresentado pelo sistema.
+- Informe o nome do cliente.
+- Digite o código do produto desejado e a quantidade.
+- Escolha se deseja finalizar a compra ou adicionar outro produto.
+- Após finalizar, o sistema calcula automaticamente o desconto e o valor final.
+- Escolha a forma de pagamento: dinheiro, PIX ou cartão.
+- Confira o resumo final da compra apresentado pelo sistema.
